@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 First-year CS student<br>🧠 Learning by building — not just watching tutorials<br>🌐 HTML • CSS • JavaScript • Python<br>⚡ Currently: turning ideas into small working projects
+👩‍💻 First-year IT student<br>🧠 Learning by building — not just watching tutorials<br>🌐 HTML • CSS • JavaScript • Python<br>⚡ Currently: turning ideas into small working projects
 
 
 ## 🌐 Socials:
